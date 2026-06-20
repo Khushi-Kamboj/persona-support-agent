@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+env/
+venv/
+.venv/
+
+# dotenv
+.env
+.env.*
+
+# Byte-compiled / cache
+*.pyc
+pip-wheel-metadata/
+
+# Database
+*.sqlite3
+vector_db/chroma_db/chroma.sqlite3
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log

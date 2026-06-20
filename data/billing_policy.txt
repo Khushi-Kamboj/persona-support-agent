@@ -1,0 +1,122 @@
+﻿Billing, Subscription, and Refund Policy
+Introduction
+This Billing, Subscription, and Refund Policy outlines the billing practices, payment requirements, subscription terms, refund eligibility, and account management procedures for customers using our SaaS platform. By subscribing to or using our services, customers agree to the terms described in this policy.
+1. Subscription Plans
+Our platform offers multiple subscription plans designed to meet the needs of individuals, small businesses, and enterprise customers. Subscription plans may include different features, usage limits, storage capacities, support levels, and user allowances.
+Customers are responsible for selecting the plan that best suits their requirements. Plan details, pricing, and included features are displayed on our pricing page and may be updated periodically.
+Customers may upgrade or downgrade their subscription plans at any time through their account settings. Changes to subscription plans may result in prorated charges or credits based on the remaining billing period.
+2. Billing Cycles
+Subscription fees are billed in advance according to the selected billing cycle.
+Available billing cycles include:
+• Monthly subscriptions billed every 30 days.
+• Annual subscriptions billed once every 12 months.
+• Custom enterprise billing arrangements where applicable.
+The billing cycle begins on the date the subscription is activated and automatically renews unless canceled in accordance with this policy.
+Customers are responsible for ensuring that valid payment information remains on file throughout the subscription period.
+3. Accepted Payment Methods
+We accept the following payment methods:
+• Major credit cards (Visa, Mastercard, American Express, Discover)
+• Debit cards
+• PayPal
+• Bank transfers (Enterprise customers only)
+• Other approved payment providers as listed during checkout
+Payments must be made in the currency specified during subscription purchase. Customers are responsible for any fees imposed by their payment provider or financial institution.
+For security purposes, payment information is processed and stored by certified third-party payment processors. We do not store complete payment card information on our systems.
+4. Invoice Generation
+Invoices are automatically generated on the customer's billing date.
+Each invoice includes:
+• Subscription plan details
+• Billing period
+• Amount charged
+• Applicable taxes and fees
+• Invoice number
+• Payment status
+Invoices are delivered electronically to the billing email address associated with the account and may also be downloaded from the customer billing portal.
+Customers are responsible for maintaining accurate billing contact information to ensure invoice delivery.
+5. Automatic Renewals
+All subscriptions renew automatically at the end of each billing cycle unless canceled before the renewal date.
+By purchasing a subscription, customers authorize the platform to automatically charge the payment method on file for recurring subscription fees, taxes, and applicable charges.
+Renewal charges are processed on or near the subscription renewal date.
+Customers may disable automatic renewal by canceling their subscription through the account management portal before the next billing cycle begins.
+Failure to cancel before the renewal date may result in charges for the next billing period.
+6. Failed Payments
+If a payment attempt fails, the platform will automatically retry the payment up to three (3) times.
+The retry schedule is generally:
+• First retry: 24 hours after the initial failure
+• Second retry: 72 hours after the first retry
+• Third retry: 7 days after the second retry
+Customers will receive email notifications regarding failed payment attempts and instructions for updating payment information.
+Common reasons for failed payments include:
+• Expired payment cards
+• Insufficient funds
+• Bank authorization failures
+• Payment provider restrictions
+• Invalid billing information
+Customers are responsible for resolving payment issues promptly to avoid service interruptions.
+7. Refund Policy
+Customer satisfaction is important to us. Refund requests are evaluated according to the following guidelines.
+Refund Eligibility
+Customers may request a refund within seven (7) calendar days of the initial subscription purchase.
+Refund requests submitted within the seven-day period will generally be reviewed and processed if the customer has not significantly exceeded normal platform usage limits.
+Non-Refundable Charges
+The following charges are generally non-refundable:
+• Subscription renewals after the seven-day refund period
+• Usage-based fees
+• Add-on purchases
+• Professional services
+• Setup or implementation fees
+• Custom development services
+Approved refunds will be issued to the original payment method whenever possible.
+Refund processing times may vary depending on the customer's financial institution and payment provider.
+8. Chargebacks and Disputes
+Customers are encouraged to contact our support team before initiating a chargeback or payment dispute.
+If a chargeback is filed, we may temporarily restrict access to the account while the dispute is investigated.
+Customers may be required to provide supporting documentation regarding the disputed transaction.
+Fraudulent or abusive chargeback activity may result in permanent account termination and denial of future service.
+If a chargeback is resolved in favor of the company, outstanding balances must be paid before account access can be restored.
+9. Account Suspension
+Accounts with unpaid balances may be subject to service restrictions or suspension.
+If payment remains unresolved for fourteen (14) days after the original billing date, the account may be suspended.
+During suspension:
+• Users may lose access to platform features
+• Data access may be restricted
+• API access may be disabled
+• Administrative actions may be limited
+Account suspension does not eliminate the customer's obligation to pay outstanding balances.
+Services may be restored after successful payment of all overdue charges.
+10. Cancellation Policy
+Customers may cancel their subscription at any time through the account settings page or by contacting customer support.
+Cancellation requests take effect at the end of the current billing period unless otherwise specified.
+Upon cancellation:
+• Access remains active until the current billing period expires
+• Future renewal charges are stopped
+• Previously paid subscription fees are generally not refunded
+• Customer data retention periods continue to apply
+Customers are encouraged to export or back up important data before subscription expiration.
+11. Taxes and Fees
+Subscription fees may be subject to applicable taxes, including but not limited to:
+• Sales tax
+• Value Added Tax (VAT)
+• Goods and Services Tax (GST)
+• Other government-imposed fees
+Taxes are calculated based on applicable laws and the customer's billing location.
+Customers are responsible for providing accurate tax information and any required exemption documentation.
+Failure to provide valid tax documentation may result in taxes being applied automatically.
+12. Customer Support Contact Information
+Customers requiring assistance with billing, payments, invoices, refunds, or subscription management may contact our Customer Support Team.
+Support Channels:
+Email:
+billing@company.com
+Support Portal:
+support.company.com
+Business Hours:
+Monday through Friday
+9:00 AM to 6:00 PM (Local Time)
+Response Times:
+• Billing inquiries: Within 1 business day
+• Refund requests: Within 2 business days
+• Payment disputes: Within 3 business days
+• Account access issues: Priority handling
+Policy Updates
+We reserve the right to modify this Billing, Subscription, and Refund Policy at any time. Updated versions will be published on our website and become effective upon posting. Continued use of the platform after policy updates constitutes acceptance of the revised terms.
+For questions regarding this policy, please contact our Customer Support Team.
